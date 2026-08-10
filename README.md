@@ -2,34 +2,21 @@
 
 > **Driving Business Intelligence through Data Storytelling, Automated Extraction, and Advanced Analytics.**
 
-## 🤝 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-huzaifa-gohar/)
-[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)](https://public.tableau.com/app/profile/muhammad.huzaifa.gohar/vizzes)
-[![Portfolio](https://img.shields.io/badge/Portfolio_Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://muhammadhuzaifagohar.github.io/huzaifatheanalyst.io/)
-<a href="https://github.com/MuhammadHuzaifaGohar">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://share.streamlit.io/user/muhammadhuzaifagohar)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/muhammadhuzaifagohar/code)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:)
-
----
-
 ## About Me
-Accomplished **Data Analyst Specialist** with a focus on transforming raw, unstructured data into high-impact visual narratives. Expert in building end-to-end data solutions, from **Web Scraping** using Beautiful Soup to deploying **Streamlit Dashboards** and **Tableau** visualizations. I specialize in **Data Storytelling**, ensuring that every insight leads to a strategic business action.
+Accomplished **Data Analyst Specialist** with a focus on transforming raw, unstructured data into high-impact visual narratives. Expert in building end-to-end data solutions, from **Web Scraping** using Beautiful Soup to Real time **Tableau** visualizations. I specialize in **Data Storytelling**, ensuring that every insight leads to a strategic business action.
 
-* 📈 **Core Expertise:** Exploratory Data Analysis (EDA), Statistical Modeling, & ETL Pipelines.
-* 🕸 **Data Acquisition:** Advanced Web Scraping & API Integration.
-* 💡 **Philosophy:** Data is just numbers until it tells a story that moves the needle.
+* **Core Expertise:** Exploratory Data Analysis (EDA).
+* **Data Acquisition:** Advanced Web Scraping & API Integration.
+* **Philosophy:** Data is just numbers until it tells a story that moves the needle.
 
 ---
 
-## 🏆 Industry Certifications
-* **Google Data Analytics Professional Certificate** – *Google*
-* **IBM Data Analyst Professional Certificate** – *IBM*
-* **AWS Certified Cloud Practitioner** (Data & Analytics Focus) – *Amazon Web Services*
-* **Tableau Desktop Specialist** – *Tableau*
+## Industry Certifications
+* **Business Intelligence Analyst Certificate** – *Google*
+* **Fabric Analytics Engineer Associate** – *Microsoft*
+* **Data Visualization with Tableau Specialization** – *University of California, Davis*
+* **Analyzing and Visualizing Data** – *Kaggle*
+* **Python** – *University of Michigan*
 
 ---
 
@@ -44,10 +31,8 @@ Accomplished **Data Analyst Specialist** with a focus on transforming raw, unstr
 
 ### **Visualization & Storytelling**
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%2ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![SEABORN](https://img.shields.io/badge/SEABORN-%23fffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 
 ### **Web Scraping & Automation**
 ![Beautiful Soup](https://img.shields.io/badge/Beautiful_Soup-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
@@ -65,13 +50,17 @@ Accomplished **Data Analyst Specialist** with a focus on transforming raw, unstr
 
 ---
 
-## 🤝 Let's Connect
-* **[LinkedIn]**(https://www.linkedin.com/in/muhammad-huzaifa-gohar)
-* **[Kaggle]**(https://www.kaggle.com/muhammadhuzaifagohar/code)
-* **[GitHub]**(https://github.com/MuhammadHuzaifaGohar)
----
+## Let's Connect
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-huzaifa-gohar/)
+[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)](https://public.tableau.com/app/profile/muhammad.huzaifa.gohar/vizzes)
+[![Portfolio](https://img.shields.io/badge/Portfolio_Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://muhammadhuzaifagohar.github.io/huzaifatheanalyst.io/)
+<a href="https://github.com/MuhammadHuzaifaGohar"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/muhammadhuzaifagohar/code)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:"message.huzaifa@gmail.com")
+
+---
 ### KEYWORDS:
-`Data Analyst Specialist` `Business Intelligence (BI)` `Data Storytelling` `Python Automation` `Web Scraping (Beautiful Soup)` `SQL Database Optimization` `Streamlit Web Apps` `Tableau Dashboards` `Advanced Excel Analytics` `Exploratory Data Analysis (EDA)` `ETL Process` `Data Mining` `Predictive Analytics` `Quantitative Research`
+`Data Analyst Specialist` `Business Intelligence (BI)` `Data Storytelling` `Python` `Web Scraping (Beautiful Soup)` `SQL Database Optimization` `Tableau Dashboards` `Advanced Excel Analytics` `Exploratory Data Analysis (EDA)` `Predictive Analytics`
 
 ***Copyright © Muhammad Huzaifa. All Rights Reserved***
