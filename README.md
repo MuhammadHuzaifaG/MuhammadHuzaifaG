@@ -18,6 +18,14 @@ Accomplished **Data Analyst Specialist** with a focus on transforming raw, unstr
 * **Analyzing and Visualizing Data** – *Kaggle*
 * **Python** – *University of Michigan*
 
+<div align="center">
+
+| MS DP-600 | Google BI | Alteryx Designer Core | Hackathon Winner |
+| :---: | :---: | :---: | :---: |
+| <img src="https://github.com/user-attachments/assets/c0b770a0-4447-4f24-bcf5-f0ea5e73d84e" alt="DP-600" width="80" /> | <img src="https://github.com/user-attachments/assets/6adf3160-8761-4181-9dc7-266f2ba254df" alt="Google BI" width="90" /> | <img src="https://github.com/user-attachments/assets/ca52c32b-dde7-4bfc-9d88-bd9572fd8e84" alt="Alteryx Designer Core" width="80" /> | <img src="https://github.com/user-attachments/assets/0d6fafae-e06f-44e2-aa9b-4f34bc69fc5b" alt="Hackathon Winner" width="80" /> |
+
+</div>
+
 ---
 
 ## Technical Ecosystem
