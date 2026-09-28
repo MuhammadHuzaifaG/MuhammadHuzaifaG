@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&pause=1000&color=0077B5&center=true&vcenter=true&width=700&lines=Certified+Data+Analyst;Muhammad+Huzaifa;Data+Storytelling+%26+Advanced+Analytics;Business+Intelligence" alt="Typing Banner" />
 
-> **Driving Business Intelligence through Data Storytelling, Automated Extraction, and Advanced Analytics.**
+> **Driving Business Intelligence through Data Storytelling and Advanced Analytics.**
 
 </div>
 
