@@ -59,7 +59,6 @@ Whether diagnosing database latencies, rebuilding unoptimized e-commerce checkou
 | :--- | :--- | :--- |
 | **[NeuroPace AI](https://muhammadhuzaifag.github.io/Neuropace-AI/)** | `JavaScript` `Chart.js` | AI-Powered Cognitive Pacing Tracker utilizing dynamic data visualization. |
 | **[Adidas US Sales Performance](https://github.com/MuhammadHuzaifaG/Adidas-US-Sales-Performance-Overview-Tableau-Dashboard-2020-21)** | `Tableau` | High-level executive dashboard showcasing quarterly growth and regional KPIs. |
-| **[Executive Economic Insights](https://github.com/MuhammadHuzaifaGohar/Global-Intelligence-Economic-Transformation)** | `Streamlit` `Python` `Plotly` | Advanced, interactive BI engine designed to model and visualize global economic transformation. |
 | **[AquaPulse-OneHealth](https://muhammadhuzaifag.github.io/AquaPulse-OneHealth/)** | `FastAPI` `Google GenAI` `Python` | Urban Freshwater Telemetry & Vector Surveillance Platform. |
 | **[MGH Patient Analytics Portal](https://github.com/MuhammadHuzaifaG/MGH-Hospital-Patient-Analytics-Portal---TABLEAU)** | `Tableau` | Hospital operations dashboard for KPI tracking, admission analytics, and structural reporting. |
 | **[DevPulse.ai](https://github.com/)** | `Python` `Pydantic` `Jinja2` `JS` | Hugging-Face integrated application for real-time developer metrics and AI deployment. |
