@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&pause=1000&color=0077B5&center=true&vcenter=true&width=700&lines=Certified+Data+Analyst;Muhammad+Huzaifa;Data+Storytelling+%26+Advanced+Analytics;Business+Intelligence" alt="Typing Banner" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&pause=1000&color=0077B5&center=true&vcenter=true&width=700&lines=Certified+Data+Analyst;Muhammad+Huzaifa;Data+Storytelling+%26+Advanced+Analytics;SQL+%26+Tableau" alt="Typing Banner" />
 
-> **Driving Business Intelligence through Data Storytelling and Advanced Analytics.**
+> **Scaling Businesses via Advanced Analytics & Data Storytelling — Accelerating Decision-Making by 40%**
 
 </div>
 
 ## Executive Summary
 
-I am a professional Data Analyst dedicated to engineered efficiency. Armed with a formal Bachelor of Science degree and backed by industry certifications, my framework focuses on a singular objective: converting operational system bottlenecks into scalable business revenue.
+I am a Data Analyst dedicated to engineered efficiency. Armed with a formal Bachelor of Science degree and backed by industry certifications, my framework focuses on a singular objective: converting operational system bottlenecks into scalable business revenue.
 
 Whether diagnosing database latencies, rebuilding unoptimized e-commerce checkout paths, or developing real-time data visualizations, I deliver robust technical optimization. I do not simply build digital interfaces; I architect custom solutions that systematically resolve backend friction.
 
