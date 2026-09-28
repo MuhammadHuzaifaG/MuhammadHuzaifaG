@@ -1,22 +1,47 @@
-# Google Certified Data Analyst | Muhammad Huzaifa
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&pause=1000&color=0077B5&center=true&vcenter=true&width=700&lines=Certified+Data+Analyst;Muhammad+Huzaifa;Data+Storytelling+%26+Advanced+Analytics;Automated+Extraction+%26+BI+Pipelines" alt="Typing Banner" />
 
 > **Driving Business Intelligence through Data Storytelling, Automated Extraction, and Advanced Analytics.**
 
-## About Me
-Accomplished **Data Analyst Specialist** with a focus on transforming raw, unstructured data into high-impact visual narratives. Expert in building end-to-end data solutions, from **Web Scraping** using Beautiful Soup to Real time **Tableau** visualizations. I specialize in **Data Storytelling**, ensuring that every insight leads to a strategic business action.
+</div>
 
-* **Core Expertise:** Exploratory Data Analysis (EDA).
-* **Data Acquisition:** Advanced Web Scraping & API Integration.
-* **Philosophy:** Data is just numbers until it tells a story that moves the needle.
+## Executive Summary
 
----
+I am a professional Data Analyst dedicated to engineered efficiency. Armed with a formal Bachelor of Science degree and backed by industry certifications, my framework focuses on a singular objective: converting operational system bottlenecks into scalable business revenue.
 
-## Industry Certifications
+Whether diagnosing database latencies, rebuilding unoptimized e-commerce checkout paths, or developing real-time data visualizations, I deliver robust technical optimization. I do not simply build digital interfaces; I architect custom solutions that systematically resolve backend friction.
+
+* **Core Competencies:** Advanced Analytics, Statistical Problem Solving, and Insight Generation.
+* **Technical Domains:** SQL for Data Management, **Tableau** for intuitive, data-driven visualization, and Python for extraction and analysis.
+* **Specialized Skills:** Exploratory Data Analysis (EDA), Data Cleansing, and Wordpress Development.
+* **Operating Philosophy:** Data is just numbers until it tells a story that moves the needle.
+
+## Technical Skills & Ecosystem
+
+<div align="center">
+
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c.svg?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![Beautiful Soup](https://img.shields.io/badge/Beautiful_Soup-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
+</div>
+
+## Education & Industry Certifications
+
+* **Bachelor of Science** – *PU*
 * **Business Intelligence Analyst Certificate** – *Google*
-* **Fabric Analytics Engineer Associate** – *Microsoft*
+* **Fabric Analytics Engineer Associate (DP-600)** – *Microsoft*
 * **Data Visualization with Tableau Specialization** – *University of California, Davis*
 * **Analyzing and Visualizing Data** – *Kaggle*
-* **Python** – *University of Michigan*
+* **Python Certification** – *University of Michigan*
+* **Advanced Microsoft Excel, SQL, & Linear Algebra** – *365 Data Science*
 
 <div align="center">
 
@@ -26,39 +51,25 @@ Accomplished **Data Analyst Specialist** with a focus on transforming raw, unstr
 
 </div>
 
----
+<br>
 
-## Technical Ecosystem
+## Github Repositories:
 
-### **Languages & Core Analytics**
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-
-### **Visualization & Storytelling**
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%2ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![SEABORN](https://img.shields.io/badge/SEABORN-%23fffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-
-### **Web Scraping & Automation**
-![Beautiful Soup](https://img.shields.io/badge/Beautiful_Soup-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
-
----
-
-## 📁 Popular Repositories
-
-| Project | Tech Stack | Description |
+| Repository | Tech Stack | Architecture & Scope |
 | :--- | :--- | :--- |
-| **[Real-Estate Web Scraper](LINK)** | `Beautiful Soup`, `Python` | Scrapes 5000+ listings daily to track market volatility and pricing trends. |
-| **[Global Finance Dashboard](LINK)** | `Tableau`, `Excel` | High-level executive dashboard showcasing quarterly growth and KPI tracking. |
-| **[Executive Economic Insights](https://github.com/MuhammadHuzaifaGohar/Global-Intelligence-Economic-Transformation)** | `Streamlit`, `Python` `Plotly` | An advanced, interactive BI engine designed to visualize global transformation |
-| **[E-Commerce Sales Analytics Dashboard](https://github.com/MuhammadHuzaifaGohar/Ecommerce-Sales-Analytics)** | `Pandas` `Streamlit`, `Python` `Plotly` | An advanced, end-to-end Business Intelligence (BI) application |
+| **[NeuroPace AI](https://muhammadhuzaifag.github.io/Neuropace-AI/)** | `JavaScript` `Chart.js` | AI-Powered Cognitive Pacing Tracker utilizing dynamic data visualization. |
+| **[Adidas US Sales Performance](https://github.com/MuhammadHuzaifaG/Adidas-US-Sales-Performance-Overview-Tableau-Dashboard-2020-21)** | `Tableau` | High-level executive dashboard showcasing quarterly growth and regional KPIs. |
+| **[Executive Economic Insights](https://github.com/MuhammadHuzaifaGohar/Global-Intelligence-Economic-Transformation)** | `Streamlit` `Python` `Plotly` | Advanced, interactive BI engine designed to model and visualize global economic transformation. |
+| **[AquaPulse-OneHealth](https://muhammadhuzaifag.github.io/AquaPulse-OneHealth/)** | `FastAPI` `Google GenAI` `Python` | Urban Freshwater Telemetry & Vector Surveillance Platform. |
+| **[MGH Patient Analytics Portal](https://github.com/MuhammadHuzaifaG/MGH-Hospital-Patient-Analytics-Portal---TABLEAU)** | `Tableau` | Hospital operations dashboard for KPI tracking, admission analytics, and structural reporting. |
+| **[DevPulse.ai](https://github.com/)** | `Python` `Pydantic` `Jinja2` `JS` | Hugging-Face integrated application for real-time developer metrics and AI deployment. |
+| **[Clinical AI Breast Cancer Predictor](https://www.kaggle.com/code/muhammadhuzaifagohar/predicting-breast-malignancy-with-clinical-ai)** | `Python` `Scikit-Learn` | Machine learning pipeline analyzing 30 distinct cellular features, maximizing clinical sensitivity for malignant case detection. |
 
----
+<br/>
 
-## Let's Connect
+<div align="center">
+
+### Connect & Collaborate
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-huzaifa-g/)
 [![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)](https://public.tableau.com/app/profile/muhammadhuzaifa/vizzes)
@@ -66,8 +77,16 @@ Accomplished **Data Analyst Specialist** with a focus on transforming raw, unstr
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/muhammadhuzaifagohar/code)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:message.huzaifa@gmail.com)
 
----
-### KEYWORDS:
-`Data Analyst Specialist` `Business Intelligence (BI)` `Data Storytelling` `Python` `Web Scraping (Beautiful Soup)` `SQL Database Optimization` `Tableau Dashboards` `Advanced Excel Analytics` `Exploratory Data Analysis (EDA)` `Predictive Analytics`
+</div>
 
-***Copyright © Muhammad Huzaifa. All Rights Reserved***
+<hr/>
+
+<details>
+<summary><b>View Search Engine Keywords</b></summary>
+<br/>
+<code>Data Analyst Specialist</code> <code>Business Intelligence (BI)</code> <code>Data Storytelling</code> <code>Python</code> <code>Web Scraping (Beautiful Soup)</code> <code>SQL Database Optimization</code> <code>Tableau Dashboards</code> <code>Advanced Excel Analytics</code> <code>Exploratory Data Analysis (EDA)</code> <code>Predictive Analytics</code>
+</details>
+
+**<sub><i>Copyright © Muhammad Huzaifa. All Rights Reserved.</i></sub>**
+
+</div>
