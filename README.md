@@ -1,3 +1,5 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a1a2e,100:16213e&height=220&section=header&text=Muhammad%20Huzaifa&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%E2%80%A2%20SQL%20Expert%20%20%20%&descAlignY=58&descSize=16&descColor=60a5fa"/>
+
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&pause=1000&color=0077B5&center=true&vcenter=true&width=700&lines=Certified+Data+Analyst;Muhammad+Huzaifa;Data+Storytelling+%26+Advanced+Analytics;SQL+%26+Tableau" alt="Typing Banner" />
@@ -85,6 +87,9 @@ Whether diagnosing database latencies, rebuilding unoptimized e-commerce checkou
 <code>Data Analyst Specialist</code> <code>Business Intelligence (BI)</code> <code>Data Storytelling</code> <code>Python</code> <code>Web Scraping (Beautiful Soup)</code> <code>SQL Database Optimization</code> <code>Tableau Dashboards</code> <code>Advanced Excel Analytics</code> <code>Exploratory Data Analysis (EDA)</code> <code>Predictive Analytics</code>
 </details>
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0a0a0a&height=130&section=footer&text=Build.%20Compete.%20Mentor.%20Repeat.&fontSize=22&fontColor=60a5fa&animation=twinkling&fontAlignY=65"/>
+
 **<sub><i>Copyright © Muhammad Huzaifa. All Rights Reserved.</i></sub>**
+
 
 </div>
