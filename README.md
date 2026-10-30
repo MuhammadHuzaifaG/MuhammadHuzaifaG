@@ -4,7 +4,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&pause=1000&color=0077B5&center=true&vcenter=true&width=700&lines=Certified+Data+Analyst+;Muhammad+Huzaifa;Data+Storytelling+%26+Advanced+Analytics;SQL+%26+Tableau" alt="Muhammad Huzaifa - Certified Data Analyst and SQL Specialist Banner" />
 </div>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MuhammadHuzaifag&label=Profile%20views&color=0e75b6&style=flat"/></p>
 <!-- SCHEMA.ORG MICRODATA CONTAINER FOR SEO INDEXING -->
 <div itemscope itemtype="https://schema.org/Person">
   <meta itemprop="name" content="Muhammad Huzaifa" />
@@ -128,6 +128,7 @@
 
 <hr/>
 
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadHuzaifag&show_icons=true&no-frame=true"/><p align="left"> <img src="https://komarev.com/ghpvc/?username=MuhammadHuzaifag&label=Profile%20views&color=0e75b6&style=flat"/></p>
 <!-- SEARCH ENGINE OPTIMIZATION KEYWORD CLUSTER (EXPANDABLE) -->
 <details>
 <summary><b>Search Engine Keywords</b></summary>
